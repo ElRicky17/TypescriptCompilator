@@ -36,7 +36,7 @@ src/
 
 ```bash
 # Clonar el repositorio
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/ElRicky17/TypescriptCompilator.git
 
 # Instalar dependencias
 npm install
