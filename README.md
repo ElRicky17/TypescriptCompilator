@@ -30,6 +30,6 @@ src/
 Para ejecutar el test del lexer:
 
 bash
-ts-node src/test-lexer.ts
-```
+```ts-node src/test-lexer.ts
+
 
